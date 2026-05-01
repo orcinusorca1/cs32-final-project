@@ -21,8 +21,8 @@ The goal is also to provide a brief explanation of its results so users understa
 - **Data File:** `City_Data.csv` must be in the same directory as the Python file
 
 ### How to Run
-1. Make sure `City_Data.csv` is in the project folder
-2. Run the program: `python citymatch.py`
+1. Make sure `City_Data.csv` is in the project folder and you are in the correct directory
+2. Run the program: `python3 citymatch.py`
 3. Follow the prompts in the terminal to input your preferences
 
 ### Algorithm Overview (High-Level Design)
