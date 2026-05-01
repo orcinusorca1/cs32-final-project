@@ -53,10 +53,7 @@ The goal is also to provide a brief explanation of its results so users understa
 - Score breakdown showing how each factor contributed
 - A bonus “you might also like” city based on the user’s top priority
 
-## External Contributions & Sources
-
-- Dataset compiled from publicly available city statistics (cost of living, crime rates, etc.)
-- No direct code was copied from external tutorials
+Dataset manually compiled from publicly available city statistics.
 
 ## Use of Generative AI
 
